@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hurbylabl.github.io/sitemap.html.gz
+Sitemap: https://hurbylabl.github.io/app/sitemap.html.gz
+Sitemap: https://hurbylabl.github.io/assets/sitemap.html.gz
+Sitemap: https://hurbylabl.github.io/css/sitemap.html.gz
+Sitemap: https://hurbylabl.github.io/includes/sitemap.html.gz
+Sitemap: https://hurbylabl.github.io/item/sitemap.html.gz
+Sitemap: https://hurbylabl.github.io/src/sitemap.html.gz
